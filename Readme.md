@@ -8,3 +8,4 @@ JavaScript, CSS, HTML
 
 # Live Version
 
+https://bucsip.github.io/colorboxes/
